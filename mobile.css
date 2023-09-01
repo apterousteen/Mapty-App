@@ -1,0 +1,23 @@
+@media only screen and (max-width: 61.25em) {
+    html {
+        font-size: 50%;
+    }
+
+    body {
+        padding: 0;
+        display: block;
+    }
+
+    .sidebar {
+        padding: 3rem 3rem 4rem 3rem;
+    }
+
+    .workouts {
+        height: 60vh;
+    }
+
+    #map {
+        height: 70%;
+    }
+}
+
